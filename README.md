@@ -1,4 +1,4 @@
 # GrowthData
-Interface utilisateur en R Shiny pour l'analyse de croissance de plantes.
+User interface in R Shiny for analysing plants growth.
 
 À retrouver sur https://sithamfr.shinyapps.io/GrowthData/.
