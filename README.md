@@ -9,9 +9,9 @@ The script of the program still remains private.
 
 ## Used libraries
 
-     __Interface__ : shiny / shinydasboard / shinyWidgets / shinycssloaders
-     * ijtiff / raster / imager
-     * ggplot2 / hrbrthemes / plotly / scales
+     Interface : shiny / shinydasboard / shinyWidgets / shinycssloaders
+     Images : ijtiff / raster / imager
+     Visualisation : ggplot2 / hrbrthemes / plotly / scales
 
 ## Test files
 
