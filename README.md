@@ -9,7 +9,7 @@ The script of the program still remains private.
 
 ## Used libraries
 
-     ><b>Interface</b> : shiny / shinydasboard / shinyWidgets / shinycssloaders
+     __Interface__ : shiny / shinydasboard / shinyWidgets / shinycssloaders
      * ijtiff / raster / imager
      * ggplot2 / hrbrthemes / plotly / scales
 
