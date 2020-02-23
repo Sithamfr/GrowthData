@@ -7,6 +7,12 @@ Go on https://sithamfr.shinyapps.io/GrowthData/.
 
 The script of the program still remains private.
 
+## Used libraries
+
+     * **Interface** : shiny / shinydasboard / shinyWidgets / shinycssloaders
+     * ijtiff / raster / imager
+     * ggplot2 / hrbrthemes / plotly / scales
+
 ## Test files
 
 Color9.tif is a sequence of 9 color images (480x270).<br>
