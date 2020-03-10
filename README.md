@@ -1,4 +1,7 @@
-# GrowthData
+
+<div align="center">
+<a href="https://sithamfr.shinyapps.io/GrowthData/"><img src="https://zupimages.net/up/20/11/hlnb.png" alt="Logo" width="100"/></a>
+</div>
 
 ## Discover interface
 
@@ -20,9 +23,5 @@ The script of the program still remains private.
      Visualisation :     ggplot2   hrbrthemes     plotly         scales
      Données :           data.table
 
-<br>
-<div align="center">
-<a href="https://sithamfr.shinyapps.io/GrowthData/"><img src="https://zupimages.net/up/20/11/hlnb.png" alt="Logo" width="100"/></a>
-</div>
 
 
