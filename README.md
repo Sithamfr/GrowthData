@@ -7,6 +7,12 @@ Go on https://sithamfr.shinyapps.io/GrowthData/.
 
 The script of the program still remains private.
 
+## Files
+
+     Rapports :          Projet_annuel.pdf   Support_projet_annuel.pdf
+     Demos :             Demo_Color.mp4      Demo_Depth.mp4
+     Schema :            schema.png
+
 ## Useful libraries
 
      Interface :         shiny     shinydasboard  shinyWidgets   shinycssloaders
