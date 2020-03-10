@@ -14,4 +14,7 @@ The script of the program still remains private.
      Visualisation :     ggplot2   hrbrthemes     plotly         scales
      Données :           data.table
 
-<div align="center"> Test of centering text </div>
+<br>
+<div align="center">![Logo](https://zupimages.net/viewer.php?id=20/11/hlnb.png)</div>
+
+
