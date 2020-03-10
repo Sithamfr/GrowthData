@@ -14,4 +14,4 @@ The script of the program still remains private.
      Visualisation :     ggplot2   hrbrthemes     plotly         scales
      Données :           data.table
 
-<p style="text-align: center;"> and </p>
+<p style="text-align: center;"> Test of centering text </p>
