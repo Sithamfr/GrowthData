@@ -15,9 +15,8 @@ The script of the program still remains private.
      Données :           data.table
 
 <br>
-<a href="https://zupimages.net/viewer.php?id=20/11/hlnb.png"><img src="https://zupimages.net/up/20/11/hlnb.png" alt="Logo" /></a>
 <div align="center">
-![Logo](https://zupimages.net/viewer.php?id=20/11/hlnb.png)
+<a href="https://sithamfr.shinyapps.io/GrowthData/"><img src="https://zupimages.net/up/20/11/hlnb.png" alt="Logo" /></a>
 </div>
 
 
