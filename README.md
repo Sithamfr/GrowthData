@@ -22,7 +22,7 @@ The script of the program still remains private.
 
 <br>
 <div align="center">
-<a href="https://sithamfr.shinyapps.io/GrowthData/"><img src="https://zupimages.net/up/20/11/hlnb.png" alt="Logo" /></a>
+<a href="https://sithamfr.shinyapps.io/GrowthData/"><img src="https://zupimages.net/up/20/11/hlnb.png" alt="Logo" width="100"/></a>
 </div>
 
 
