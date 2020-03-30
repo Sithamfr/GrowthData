@@ -1,12 +1,12 @@
 
 <div align="center">
-<a href="https://sithamfr.shinyapps.io/GrowthData/" target="_blank"><img src="https://zupimages.net/up/20/11/hlnb.png" alt="Logo" width="100"/></a>
+<a href="https://sithamfr.shinyapps.io/GrowthData/" target="_blank" rel="noopener noreferrer"><img src="https://zupimages.net/up/20/11/hlnb.png" alt="Logo" width="100"/></a>
 </div>
 
 ## Discover interface
 
 User interface in R Shiny for analysing plants growth.
-Go on <a href="https://sithamfr.shinyapps.io/GrowthData/" target="_blank">https://sithamfr.shinyapps.io/GrowthData/</a>.
+Go on <a href="https://sithamfr.shinyapps.io/GrowthData/" target="_blank" rel="noopener noreferrer">https://sithamfr.shinyapps.io/GrowthData/</a>.
 
 The script of the program still remains private.
 
