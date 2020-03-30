@@ -1,6 +1,6 @@
 
 <div align="center">
-<a href="https://sithamfr.shinyapps.io/GrowthData/" target="_blank" rel="noopener noreferrer"><img src="https://zupimages.net/up/20/11/hlnb.png" alt="Logo" width="100"/></a>
+<a href="https://sithamfr.shinyapps.io/GrowthData/" target="_new" rel="noopener noreferrer"><img src="https://zupimages.net/up/20/11/hlnb.png" alt="Logo" width="100"/></a>
 </div>
 
 ## Discover interface
