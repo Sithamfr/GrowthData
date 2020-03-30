@@ -6,7 +6,7 @@
 ## Discover interface
 
 User interface in R Shiny for analysing plants growth.
-Go on https://sithamfr.shinyapps.io/GrowthData/.
+Go on <a href="https://sithamfr.shinyapps.io/GrowthData/" target="_blank">https://sithamfr.shinyapps.io/GrowthData/</a>.
 
 The script of the program still remains private.
 
