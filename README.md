@@ -7,6 +7,7 @@
 
 User interface in R Shiny for analysing plants growth.
 Go on <a href="https://sithamfr.shinyapps.io/GrowthData/" target="_tab" rel="noopener noreferrer">https://sithamfr.shinyapps.io/GrowthData/</a>.
+You can also use the docker hosted on <a href="https://hub.docker.com/repository/docker/sithamfr/growthdata" target="_tab" rel="noopener noreferrer">https://hub.docker.com/repository/docker/sithamfr/growthdata</a>.
 
 The script of the program still remains private.
 
