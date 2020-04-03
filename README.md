@@ -34,4 +34,4 @@ Click on the images to watch the demonstration.
 
 ### Depth images
 
-[![Watch the video](https://raw.githubusercontent.com/Sithamfr/TopMusic/master/img_index.png)](https://youtu.be/I-3lwewANzE)
+[![Watch the video](https://raw.githubusercontent.com/Sithamfr/GrowthData/master/vignette_depth.png)](https://youtu.be/GfgNH0sg_Qg)
