@@ -30,7 +30,7 @@ Click on the images to watch the demonstration.
 
 ### Color images
 
-[![Watch the video](https://raw.githubusercontent.com/Sithamfr/TopMusic/master/img_index.png)](https://youtu.be/Q4Ofqn-mKlg)
+[![Watch the video](https://raw.githubusercontent.com/Sithamfr/GrowthData/master/vignette_color.png)](https://youtu.be/Q4Ofqn-mKlg)
 
 ### Depth images
 
