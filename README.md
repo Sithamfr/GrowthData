@@ -21,8 +21,8 @@ The script of the program still remains private.
 
      Interface :         shiny     shinydasboard  shinyWidgets   shinycssloaders
      Images :            ijtiff    raster         imager
-     Visualisation :     ggplot2   hrbrthemes     plotly         scales
-     Données :           data.table
+     Visualization :     ggplot2   hrbrthemes     plotly         scales
+     Data :              data.table
 
 ## Demonstration
 
