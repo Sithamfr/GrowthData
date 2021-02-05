@@ -13,9 +13,9 @@ The script of the program still remains private.
 
 ## Files
 
-     Rapports :          Projet_annuel.pdf   Support_projet_annuel.pdf
-     Demos :             Demo_Color.mp4      Demo_Depth.mp4
-     Schema :            schema.png
+     Reports :           Projet_annuel.pdf   Support_projet_annuel.pdf
+     Video_demo :        Demo_Color.mp4      Demo_Depth.mp4
+     Medias :            schema.png
 
 ## Useful libraries
 
@@ -30,8 +30,8 @@ Click on the images to watch the demonstration.
 
 ### Color images
 
-[![Watch the video](https://raw.githubusercontent.com/Sithamfr/GrowthData/master/vignette_color.png)](https://youtu.be/Q4Ofqn-mKlg)
+[![Watch the video](https://raw.githubusercontent.com/Sithamfr/GrowthData/master/Medias/vignette_color.png)](https://youtu.be/Q4Ofqn-mKlg)
 
 ### Depth images
 
-[![Watch the video](https://raw.githubusercontent.com/Sithamfr/GrowthData/master/vignette_depth.png)](https://youtu.be/GfgNH0sg_Qg)
+[![Watch the video](https://raw.githubusercontent.com/Sithamfr/GrowthData/master/Medias/vignette_depth.png)](https://youtu.be/GfgNH0sg_Qg)
