@@ -16,7 +16,7 @@ For Linux users, if you want to use all the available versions and your local ma
      Visualization :     ggplot2   hrbrthemes     plotly         scales
      Data :              data.table
 
-## Demonstration (version 1.0)
+## Demonstration (version 1.0 only)
 
 Click on the images to watch the video demos.
 
