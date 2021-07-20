@@ -1,6 +1,6 @@
 
 <div align="center">
-<a href="https://hub.docker.com/repository/docker/sithamfr/growthdata" target="_tab" rel="noopener noreferrer"><img src="https://github.com/Sithamfr/GrowthData/tree/master/Medias/logo_growthdata.png" alt="Logo" width="100"/></a>
+<a href="https://hub.docker.com/repository/docker/sithamfr/growthdata" target="_tab" rel="noopener noreferrer"><img src="https://github.com/Sithamfr/GrowthData/blob/master/Medias/logo_growthdata.png" alt="Logo" width="100"/></a>
 </div>
 
 ## Discover interface
