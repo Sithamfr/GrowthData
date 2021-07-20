@@ -7,7 +7,7 @@
      </span>
 </div>
 
-<div align="center">latest : 2.0</div>
+<div align="center">GrowthData | latest : 2.0</div>
 
 ## Discover GrowthData
 
