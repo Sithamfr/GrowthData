@@ -16,14 +16,14 @@ For Linux users, if you want to use all the available versions and your local ma
      Visualization :     ggplot2   hrbrthemes     plotly         scales
      Data :              data.table
 
-## Demonstration (version 1.0 only)
+## Demonstration
 
 Click on the images to watch the video demos.
 
-### Color images
+### Color images  (1.0 only)
 
 [![Watch the video](https://raw.githubusercontent.com/Sithamfr/GrowthData/master/Medias/vignette_color.png)](https://youtu.be/Q4Ofqn-mKlg)
 
-### Depth images
+### Depth images  (all versions)
 
 [![Watch the video](https://raw.githubusercontent.com/Sithamfr/GrowthData/master/Medias/vignette_depth.png)](https://youtu.be/GfgNH0sg_Qg)
