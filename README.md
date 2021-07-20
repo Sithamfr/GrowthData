@@ -26,7 +26,7 @@ The script of the program still remains private.
 
 ## Demonstration
 
-Click on the images to watch the demonstration.
+Click on the images to watch the video demos.
 
 ### Color images
 
