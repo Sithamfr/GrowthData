@@ -29,7 +29,7 @@ Click on the images to watch the video demos.
 ### Color images  (1.0 only)
 
 <a href="https://youtu.be/Q4Ofqn-mKlg">
-<img src="https://raw.githubusercontent.com/Sithamfr/GrowthData/master/Medias/vignette_color.png" alt="Watch the video">
+<img src="https://raw.githubusercontent.com/Sithamfr/GrowthData/master/Medias/vignette_color.png" alt="Watch the video" height=100>
 </a>
 
 ### Depth images  (all versions)
