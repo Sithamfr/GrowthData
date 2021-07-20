@@ -13,9 +13,9 @@ The script of the program still remains private.
 
 ## Files
 
-     Reports :           Projet_annuel.pdf   Support_projet_annuel.pdf
-     Video_demo :        Demo_Color.mp4      Demo_Depth.mp4
-     Medias :            schema.png
+     Reports (French) :    Projet_annuel.pdf   Support_projet_annuel.pdf
+     Video_demo :          Demo_Color.mp4      Demo_Depth.mp4
+     Medias :              schema.png
 
 ## Useful libraries
 
