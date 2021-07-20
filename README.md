@@ -1,15 +1,14 @@
 
 <div align="center">
-<a href="https://sithamfr.shinyapps.io/GrowthData/" target="_tab" rel="noopener noreferrer"><img src="media/logo_growthdata.png" alt="Logo" width="100"/></a>
+<a href="https://hub.docker.com/repository/docker/sithamfr/growthdata" target="_tab" rel="noopener noreferrer"><img src="media/logo_growthdata.png" alt="Logo" width="100"/></a>
 </div>
 
 ## Discover interface
 
 User interface in R Shiny for analysing plants growth.
-Go on <a href="https://sithamfr.shinyapps.io/GrowthData/" target="_tab" rel="noopener noreferrer">https://sithamfr.shinyapps.io/GrowthData/</a>.<br>
-For Linux users, if you want to use your local machine (improved experience), you can easily use the docker image hosted on <a href="https://hub.docker.com/repository/docker/sithamfr/growthdata" target="_tab" rel="noopener noreferrer">https://hub.docker.com/repository/docker/sithamfr/growthdata</a>.
+For a short try with the version 1.0, you can dirctly go on <a href="https://sithamfr.shinyapps.io/GrowthData/" target="_tab" rel="noopener noreferrer">https://sithamfr.shinyapps.io/GrowthData/</a>.<br>
+For Linux users, if you want to use all the available versions and your local machine (improved experience), you can easily use the docker image hosted on <a href="https://hub.docker.com/repository/docker/sithamfr/growthdata" target="_tab" rel="noopener noreferrer">https://hub.docker.com/repository/docker/sithamfr/growthdata</a>.
 
-The script of the program still remains private.
 
 ## Files
 
