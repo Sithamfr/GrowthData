@@ -7,7 +7,7 @@
      </span>
 </div>
 
-## Discover interface
+## Discover GrowthData
 
 User interface in R Shiny for analysing plants growth.
 For a short try with the version 1.0, you can directly go on <a href="https://sithamfr.shinyapps.io/GrowthData/" target="_tab" rel="noopener noreferrer">https://sithamfr.shinyapps.io/GrowthData/</a>.<br>
