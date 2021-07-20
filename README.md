@@ -26,6 +26,12 @@ Code is provided in the 'Code_v2' directory under GNU GPL License. This code is 
      Visualization :     ggplot2   hrbrthemes     plotly         scales
      Data :              data.table
 
+### Software architecture
+
+<span title="Architecture of GrowthData">
+     <img src="https://github.com/Sithamfr/GrowthData/blob/master/Medias/schema_growthdata.png" alt="Logo" width="100"/>
+</span>
+
 ## Demonstration
 
 Click on the images to watch the video demos.
