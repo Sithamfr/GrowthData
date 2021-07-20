@@ -34,4 +34,6 @@ Click on the images to watch the video demos.
 
 ### Depth images  (all versions)
 
-[![Watch the video](https://raw.githubusercontent.com/Sithamfr/GrowthData/master/Medias/vignette_depth.png)](https://youtu.be/GfgNH0sg_Qg)
+<a href="https://youtu.be/GfgNH0sg_Qg">
+<img src="https://raw.githubusercontent.com/Sithamfr/GrowthData/master/Medias/vignette_depth.png" alt="Watch the video" height=100>
+</a>
