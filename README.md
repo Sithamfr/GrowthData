@@ -9,13 +9,6 @@ User interface in R Shiny for analysing plants growth.
 For a short try with the version 1.0, you can dirctly go on <a href="https://sithamfr.shinyapps.io/GrowthData/" target="_tab" rel="noopener noreferrer">https://sithamfr.shinyapps.io/GrowthData/</a>.<br>
 For Linux users, if you want to use all the available versions and your local machine (improved experience), you can easily use the docker image hosted on <a href="https://hub.docker.com/repository/docker/sithamfr/growthdata" target="_tab" rel="noopener noreferrer">https://hub.docker.com/repository/docker/sithamfr/growthdata</a>.
 
-
-## Files
-
-     Reports (French) :    Projet_annuel.pdf   Support_projet_annuel.pdf
-     Video_demo :          Demo_Color.mp4      Demo_Depth.mp4
-     Medias :              schema.png
-
 ## Useful libraries
 
      Interface :         shiny     shinydasboard  shinyWidgets   shinycssloaders
@@ -23,7 +16,7 @@ For Linux users, if you want to use all the available versions and your local ma
      Visualization :     ggplot2   hrbrthemes     plotly         scales
      Data :              data.table
 
-## Demonstration
+## Demonstration (version 1.0)
 
 Click on the images to watch the video demos.
 
