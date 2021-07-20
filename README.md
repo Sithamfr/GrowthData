@@ -7,6 +7,8 @@
      </span>
 </div>
 
+<div align="center">latest : 2.0</div>
+
 ## Discover GrowthData
 
 User interface in R Shiny for analysing plants growth.
