@@ -17,7 +17,7 @@ For Linux users, if you want to use all the available versions and your local ma
 
 ### License
 
-Code is provided in the 'Code_v2' directory under GNU GPL License. This code is corresponding to the software version 2.0.
+Code is provided in the *Code_v2* directory under GNU GPL License. This code is corresponding to the software version 2.0.
 
 ### Useful libraries
 
