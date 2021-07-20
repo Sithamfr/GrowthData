@@ -29,7 +29,7 @@ Code is provided in the 'Code_v2' directory under GNU GPL License. This code is 
 ### Software architecture
 
 <span title="Architecture of GrowthData">
-     <img src="https://github.com/Sithamfr/GrowthData/blob/master/Medias/schema_growthdata.png" alt="Schema" width="200"/>
+     <img src="https://github.com/Sithamfr/GrowthData/blob/master/Medias/schema_growthdata.png" alt="Schema" height="200"/>
 </span>
 
 ## Demonstration
