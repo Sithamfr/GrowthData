@@ -38,17 +38,16 @@ Click on the images to watch the video demos.
           <img src="https://raw.githubusercontent.com/Sithamfr/GrowthData/master/Medias/vignette_color.png" alt="Watch the demo with color images" width=400>
      </span>
 </a>
-<div class="margin-left:50 !important;">
-     <i>1.0 only</i>
-</div>
+<i>1.0 only</i>
 
-### Depth images  (all versions)
+### Depth images
 
 <a href="https://youtu.be/GfgNH0sg_Qg">
      <span title="Watch the demo with depth images">
           <img src="https://raw.githubusercontent.com/Sithamfr/GrowthData/master/Medias/vignette_depth.png" alt="Watch the demo with depth images" height=200>
      </span>
 </a>
+<i>All versions</i>
 
 ## Code
 
