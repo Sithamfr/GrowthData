@@ -31,7 +31,7 @@ The software is provided under GNU GPL License.
 
 Click on the images to watch the video demos.
 
-<div class="display:inline !important;font-weight:lighter !important;"><h3 class="display:inline !important;">Color images </h3>(1.0 only)</div>
+<h3 class="display:inline !important;">Color images</h3><div class="display:inline !important;font-weight:lighter !important;"> (1.0 only)</div>
 
 <a href="https://youtu.be/Q4Ofqn-mKlg">
      <span title="Watch the demo with color images">
