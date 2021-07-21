@@ -33,10 +33,10 @@ Click on the images to watch the video demos.
 
 ### Color images
 
-<div>
+<div width=300>
      <a href="https://youtu.be/Q4Ofqn-mKlg">
           <span title="Watch the demo with color images">
-               <img src="https://raw.githubusercontent.com/Sithamfr/GrowthData/master/Medias/vignette_color.png" alt="Watch the demo with color images" height=200>
+               <img src="https://raw.githubusercontent.com/Sithamfr/GrowthData/master/Medias/vignette_color.png" alt="Watch the demo with color images" width=300>
           </span>
      </a>
      <div class="align:right !important;">
