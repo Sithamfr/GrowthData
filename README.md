@@ -31,7 +31,7 @@ The software is provided under GNU GPL License.
 
 Click on the images to watch the video demos.
 
-### Color images <div class="font-weight: inherit;">(1.0 only)</div>
+### Color images <div class="font-weight: normal !important;">(1.0 only)</div>
 
 <a href="https://youtu.be/Q4Ofqn-mKlg">
      <span title="Watch the demo with color images">
