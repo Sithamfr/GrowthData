@@ -31,13 +31,16 @@ The software is provided under GNU GPL License.
 
 Click on the images to watch the video demos.
 
-<h3 class="display:inline !important;">Color images</h3><div class="display:inline !important;font-weight:lighter !important;"> (1.0 only)</div>
+### Color images
 
-<a href="https://youtu.be/Q4Ofqn-mKlg">
-     <span title="Watch the demo with color images">
-          <img src="https://raw.githubusercontent.com/Sithamfr/GrowthData/master/Medias/vignette_color.png" alt="Watch the demo with color images" height=200>
-     </span>
-</a>
+<div class="display:inline !important;">
+     <a href="https://youtu.be/Q4Ofqn-mKlg">
+          <span title="Watch the demo with color images">
+               <img src="https://raw.githubusercontent.com/Sithamfr/GrowthData/master/Medias/vignette_color.png" alt="Watch the demo with color images" height=200>
+          </span>
+     </a>
+     <i>1.0 only</i>
+</div>
 
 ### Depth images  (all versions)
 
