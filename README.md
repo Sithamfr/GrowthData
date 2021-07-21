@@ -1,6 +1,6 @@
 
 <div align="center">
-     <span title="DockerHub : GrowthData">
+     <span title="Docker Hub : GrowthData">
           <a href="https://hub.docker.com/repository/docker/sithamfr/growthdata" target="_tab" rel="noopener noreferrer">
                <img src="https://github.com/Sithamfr/GrowthData/blob/master/Medias/logo_growthdata.png" alt="Logo" width="100"/>
           </a>
