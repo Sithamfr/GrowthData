@@ -33,15 +33,13 @@ Click on the images to watch the video demos.
 
 ### Color images
 
-<div width=400>
-     <a href="https://youtu.be/Q4Ofqn-mKlg">
-          <span title="Watch the demo with color images">
-               <img src="https://raw.githubusercontent.com/Sithamfr/GrowthData/master/Medias/vignette_color.png" alt="Watch the demo with color images" width=400>
-          </span>
-     </a>
-     <div class="padding-left:300 !important;margin-left:300 !important;">
-          <i>1.0 only</i>
-     </div>
+<a href="https://youtu.be/Q4Ofqn-mKlg">
+     <span title="Watch the demo with color images">
+          <img src="https://raw.githubusercontent.com/Sithamfr/GrowthData/master/Medias/vignette_color.png" alt="Watch the demo with color images" width=400>
+     </span>
+</a>
+<div class="margin-left:50 !important;">
+     <i>1.0 only</i>
 </div>
 
 ### Depth images  (all versions)
