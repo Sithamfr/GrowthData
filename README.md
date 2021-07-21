@@ -39,7 +39,7 @@ Click on the images to watch the video demos.
                <img src="https://raw.githubusercontent.com/Sithamfr/GrowthData/master/Medias/vignette_color.png" alt="Watch the demo with color images" height=200>
           </span>
      </a>
-     <div class="align:right;">
+     <div class="text-align:right;">
           <i>1.0 only</i>
      </div>
 </div>
