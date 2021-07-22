@@ -12,14 +12,19 @@
 ## Discover GrowthData
 
 User interface in R Shiny for analysing plants growth.
-For a short try with the version 1.0, you can directly go on <a href="https://sithamfr.shinyapps.io/GrowthData/" target="_tab" rel="noopener noreferrer">https://sithamfr.shinyapps.io/GrowthData/</a>.<br>
-For Linux users, if you want to use all the available versions and your local machine (improved experience), you can easily use the docker image hosted on <a href="https://hub.docker.com/repository/docker/sithamfr/growthdata" target="_tab" rel="noopener noreferrer">https://hub.docker.com/repository/docker/sithamfr/growthdata</a>.
+For a short try with the version 1.0, you can directly go <a href="https://sithamfr.shinyapps.io/GrowthData/" target="_tab" rel="noopener noreferrer">there</a>.<br>
+For Linux users, if you want to use all the available versions and your local machine (improved experience), you can easily use the docker image hosted on <a href="https://hub.docker.com/repository/docker/sithamfr/growthdata" target="_tab" rel="noopener noreferrer">here</a>.
 
 ## Software
 
 ### License
 
 The software is provided under GNU GPL License.
+
+### Get started
+
+*Docker* : Find the instructions <a href="https://hub.docker.com/repository/docker/sithamfr/growthdata" target="_tab" rel="noopener noreferrer">here</a>.
+*Source code* : Be sure you get all the dependencies, and run *Rscript .launcher* in the shell in the directory.
 
 ### Architecture
 
