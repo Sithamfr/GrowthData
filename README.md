@@ -24,7 +24,7 @@ The software is provided under GNU GPL License.
 ### Get started
 
 *Docker* : Find the instructions <a href="https://hub.docker.com/repository/docker/sithamfr/growthdata" target="_tab" rel="noopener noreferrer">here</a>.<br>
-*Source code* : Be sure you get all the dependencies, and run *Rscript .launcher* in the shell in the directory.
+*Source code* : Be sure you get all the dependencies, and run *Rscript .launcher* in the shell located in the directory.
 
 ### Architecture
 
